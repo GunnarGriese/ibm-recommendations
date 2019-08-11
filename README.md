@@ -16,8 +16,9 @@ This recommender system looks at users that are similar in terms of the items th
 
 ### V. Matrix Factorization
 
+This recommender system utilises matrix decompisition in order to provide better recommendations to the users.
 
-### Licensing
+## Licensing
 
 For some code examples credit goes to Udacity. Otherwise, feel free to use the code as you like.
 
